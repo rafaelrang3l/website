@@ -1,2 +1,4 @@
+name: Rafael Rangel - Porfolio
+#markdown: kramdown
 theme: minimal-mistakes-jekyll
 plugins: jekyll-include-cache
